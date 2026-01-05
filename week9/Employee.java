@@ -23,6 +23,6 @@ public class Employee {
     public void displayEmployee() {
         System.out.println("Employee ID: " + employeeId);
         System.out.println("Name: " + name);
-        System.out.println("Basic Salary: $" + basicSalary);
+        System.out.println("Basic Salary: Rs" + basicSalary);
     }
 }
